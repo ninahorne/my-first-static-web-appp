@@ -1,5 +1,5 @@
 {
-  "staticWebApps.appSubpath": "/",
+  "staticWebApps.appSubpath": "static-app",
   "staticWebApps.apiSubpath": "api",
   "staticWebApps.outputSubpath": "dist/static-app",
   "azureFunctions.deploySubpath": ".",
