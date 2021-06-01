@@ -8,7 +8,7 @@ export class AppService {
 
   constructor(private http: HttpClient) { }
 
-  rootURL = 'https://';
+  rootURL = '/api';
   task: any;
 
   setTask(task) {
